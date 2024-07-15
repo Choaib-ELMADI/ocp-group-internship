@@ -1,0 +1,7 @@
+Position Début:
+    x: 4.4
+    y: 13.6
+
+Position Fin:
+    x: 22.2
+    y: 13.6
