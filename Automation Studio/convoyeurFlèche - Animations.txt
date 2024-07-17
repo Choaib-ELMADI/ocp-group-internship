@@ -5,3 +5,13 @@ Position Début:
 Position Fin:
     x: 22.2
     y: 13.6
+
+---------------------------
+
+Position Début:
+    x: 209.2
+    y: 268.7
+
+Position Fin:
+    x: 209.2
+    y: 128.7
