@@ -10,6 +10,10 @@ This repository contains the code, documentation, and resources developed during
 
 The mining industry is undergoing a transformation driven by advancements in technology. This project contributes to OCP's strategic vision of smart mining by developing an autonomous control system for stackers used in the storage of phosphates. The system provides real-time supervision, efficient decision-making, and optimization of storage processes.
 
+<img src="./Documents/Images Rapport/Figure 3.1 – Machine Stockeuse.jpeg" width="100%" alt="Storage Machine (STACKER)" />
+
+<img src="./Documents/Images Rapport/Figure 4.5 – Les Axes du Robot Stacker.jpeg" width="100%" alt="Storage Machine (STACKER) Axes" />
+
 ## Architecture
 
 The system architecture integrates various components:
