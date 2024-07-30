@@ -14,10 +14,10 @@ The mining industry is undergoing a transformation driven by advancements in tec
 
 The system architecture integrates various components:
 
-- **PLC (Programmable Logic Controller):** Manages real-time control and automation
-- **HMI (Human-Machine Interface):** Provides operators with a user-friendly interface for monitoring and controlling the system
-- **Remote Supervision:** Enables monitoring and control from a centralized location
-- **Data Management:** Utilizes data from sensors and other inputs to optimize storage processes and ensure system reliability
+- **PLC (Programmable Logic Controller):** Manages real-time control and automation.
+- **HMI (Human-Machine Interface):** Provides operators with a user-friendly interface for monitoring and controlling the system.
+- **Remote Supervision:** Enables monitoring and control from a centralized location.
+- **Data Management:** Utilizes data from sensors and other inputs to optimize storage processes and ensure system reliability.
 
 ## Technologies and Tools
 
